@@ -1,0 +1,10 @@
+# golang.org/x/exp v0.0.0-20181112044915-a3060d491354 => /tmp/exp_apidiffCL.xcxLsR10d
+golang.org/x/exp/apidiff
+# golang.org/x/tools v0.0.0-20181115011154-2a3f5192be2e
+golang.org/x/tools/go/packages
+golang.org/x/tools/go/gcexportdata
+golang.org/x/tools/go/internal/cgo
+golang.org/x/tools/internal/gopathwalk
+golang.org/x/tools/internal/semver
+golang.org/x/tools/go/internal/gcimporter
+golang.org/x/tools/internal/fastwalk
